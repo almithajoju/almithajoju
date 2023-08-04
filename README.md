@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @almithajoju
 -  I’m interested in learning new things 
--   I'm a Biomedical Engineer
--  I’m currently learning front-end Developing
+-   I'm a Junior Fullstack Developer
+  
 
 
 <!---
